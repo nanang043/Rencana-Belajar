@@ -6,3 +6,4 @@ MATERI YANG DIPELAJARI SATU MINGGU KEDEPAN
  ^tailwind
 -Masuk materi LARAVEL
 -Penguasaan materi dasar LARAVEL
+-semangat ada persi terbaik xixixi
