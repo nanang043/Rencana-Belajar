@@ -1,5 +1,9 @@
 MATERI YANG DIPELAJARI SATU MINGGU KEDEPAN
 -Memprlajari GIT & GITHUB
 -Memperdalam GIT & GITHUB
+-Belajar framework css
+ ^anulah
+ ^bootstrap
+ -Belajar materi dasar javsript
 -Masuk materi LARAVEL
 -Penguasaan materi dasar LARAVEL
