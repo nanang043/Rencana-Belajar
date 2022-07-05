@@ -4,6 +4,5 @@ MATERI YANG DIPELAJARI SATU MINGGU KEDEPAN
 -Belajar css framework
  ^boostrap
  ^tailwind
--Belajar materi dasar LARAVEL
 -Masuk materi LARAVEL
 -Penguasaan materi dasar LARAVEL
