@@ -1,0 +1,4 @@
+RENCANA BELAJAR MATERI LAIN "KALAU SEMPAT!"
+-Melanjutkan materi diweb dicoding
+-Mempelajari javasript dasar 
+-Mempelajari PHP dasar
