@@ -1,0 +1,5 @@
+MATERI YANG DIPELAJARI SATU MINGGU KEDEPAN
+-Memprlajari GIT & GITHUB
+-Memperdalam GIT & GITHUB
+-Masuk materi LARAVEL
+-Pendalaman materi LARAVEL
